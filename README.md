@@ -1,3 +1,10 @@
 # GRIP-TASKS
-Hello! I'm Selvy.S, a Sophomore Btech student at PTU. Also currently, I'm a Data Science intern at The Sparks Foundation. I've shared my task 1 and task 2 that has been assigned to me here. Task 1 involves Prediction using Supervised ML and Task 2 involves Prediction using Unsupervised ML. 
-Also check out my work at https://www.youtube.com/watch?v=p5GuY4aMD_M&list=PLoSxMl1RGz42oAWkB54553I-mhHVZYpQj
+Hello! I'm Selvy.S, a Sophomore Btech student at PTU. Also currently, I'm a Data Science intern at The Sparks Foundation. I've shared my task 1 and task 2 that has been assigned to me here. 
+
+Task 1 is about Prediction using Supervised ML.It involves a simple linear regression using 2 variables. Here, I've to predict the score of a student based on the no of hours studied. The given Dataset can be found at http://bit.ly/w-data
+
+Task 2 is about Prediction using Unsupervised ML. Here I've to cluster the given Iris Dataset. I've used the Elbow method to find the optimal number of clusters. The Iris Dataset can be found at https://bit.ly/3kXTdox
+
+Language used: Python
+
+Also check out my work at shorturl.at/psxHR
