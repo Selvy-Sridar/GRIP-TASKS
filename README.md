@@ -1,5 +1,5 @@
 # GRIP-TASKS
-Hello! I'm Selvy.S, a Sophomore Btech student at PTU. Also currently, I'm a Data Science intern at The Sparks Foundation. I've shared my task 1 and task 2 that has been assigned to me here. 
+Hello! Here, I've shared my task 1 and task 2 that has been assigned to me as a Data Science intern at The Sparks Foundation.
 
 Task 1 is about Prediction using Supervised ML.It involves a simple linear regression using 2 variables. Here, I've to predict the score of a student based on the no of hours studied. The given Dataset can be found at http://bit.ly/w-data
 
